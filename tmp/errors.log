@@ -1,0 +1,504 @@
+[2020-12-04 02:52:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:52:18] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role' in 'where clause' | Файл: C:\OSPanel\domains\onlinetasks\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-12-04 02:54:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:54:48] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:55:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:55:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:55:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:55:22] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:55:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:55:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:55:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:55:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 02:55:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:05:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:05:14] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:05:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:05:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:05:29] Текст ошибки: Не найден вид C:\OSPanel\domains\onlinetasks/app/views/Task/edit.php | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\base\View.php | Строка: 38
+=================
+[2020-12-04 03:05:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:06:20] Текст ошибки: Не найден вид C:\OSPanel\domains\onlinetasks/app/views/Task/edit.php | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\base\View.php | Строка: 38
+=================
+[2020-12-04 03:07:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:07:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:07:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:07:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:08:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:09:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:09:15] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 53
+=================
+[2020-12-04 03:14:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:14:41] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 53
+=================
+[2020-12-04 03:15:04] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 53
+=================
+[2020-12-04 03:15:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:15:21] Текст ошибки: Контроллер app\controllers\AsdfController не найден | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 37
+=================
+[2020-12-04 03:15:43] Текст ошибки: Контроллер app\controllers\AsdfController не найден | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 37
+=================
+[2020-12-04 03:17:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:17:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:17:37] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:17:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:17:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:17:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:18:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:18:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:18:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:18:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:18:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:18:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:18:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:18:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-04 03:19:14] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:26:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:26:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:26:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:26:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:26:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:26:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:26:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:26:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:31:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:31:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:31:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:31:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:31:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:31:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:31:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:31:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:35:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:35:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:35:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:35:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:35:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:35:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:35:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 13:35:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 17:41:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 17:41:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 17:41:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 17:42:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 17:42:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 17:42:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 17:44:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 17:44:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 17:44:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:11:21] Текст ошибки: Не найден вид C:\OSPanel\domains\onlinetasks/app/views/Main/index.php | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\base\View.php | Строка: 38
+=================
+[2020-12-05 18:12:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:14:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:16:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:20:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:20:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:22:37] Текст ошибки: Контроллер app\controllers\TasksController не найден | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 37
+=================
+[2020-12-05 18:23:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:24:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:25:45] Текст ошибки: Expected array, integer given. | Файл: C:\OSPanel\domains\onlinetasks\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 194
+=================
+[2020-12-05 18:25:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:26:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:26:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:26:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:27:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:29:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:29:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:34:47] Текст ошибки: Identifier does not conform to RedBeanPHP security policies. | Файл: C:\OSPanel\domains\onlinetasks\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Строка: 820
+=================
+[2020-12-05 18:34:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:39:42] Текст ошибки: Call to a member function getStart() on null | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 27
+=================
+[2020-12-05 18:39:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:41:37] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:41:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:43:09] Текст ошибки: Class name must be a valid object or a string | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 31
+=================
+[2020-12-05 18:43:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:43:34] Текст ошибки: Class name must be a valid object or a string | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 32
+=================
+[2020-12-05 18:43:35] Текст ошибки: Class name must be a valid object or a string | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 32
+=================
+[2020-12-05 18:43:43] Текст ошибки: Class name must be a valid object or a string | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 32
+=================
+[2020-12-05 18:43:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:47:02] Текст ошибки: Call to a member function withCondition() on array | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 32
+=================
+[2020-12-05 18:47:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:47:13] Текст ошибки: Call to a member function withCondition() on array | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 32
+=================
+[2020-12-05 18:47:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:50:06] Текст ошибки: Call to a member function withCondition() on null | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 32
+=================
+[2020-12-05 18:50:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:50:56] Текст ошибки: Call to a member function count() on null | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 25
+=================
+[2020-12-05 18:51:00] Текст ошибки: Call to a member function count() on null | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 25
+=================
+[2020-12-05 18:51:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:51:13] Текст ошибки: Call to a member function count() on null | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 25
+=================
+[2020-12-05 18:51:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:51:15] Текст ошибки: Call to a member function count() on null | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 25
+=================
+[2020-12-05 18:51:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:51:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 18:53:02] Текст ошибки: Invalid Array Bean | Файл: C:\OSPanel\domains\onlinetasks\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Строка: 137
+=================
+[2020-12-05 19:00:49] Текст ошибки: Call to a member function find() on array | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 34
+=================
+[2020-12-05 19:00:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:01:14] Текст ошибки: Call to a member function find() on array | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\MainController.php | Строка: 34
+=================
+[2020-12-05 19:01:14] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:18:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:18:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:21:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:21:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:22:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:25:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:32:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:34:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:34:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:34:48] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:36:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:37:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:37:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:38:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:58:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 19:59:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:01:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:02:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:03:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:04:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:06:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:07:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:08:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:09:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:10:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:10:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:11:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:16:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:16:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:16:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:16:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:16:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:16:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:16:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:16:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:18:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:23:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:24:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:26:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:28:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:28:55] Текст ошибки: Контроллер app\controllers\PostsController не найден | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 37
+=================
+[2020-12-05 20:30:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:36:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:37:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:38:32] Текст ошибки: Контроллер app\controllers\PostsController не найден | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 37
+=================
+[2020-12-05 20:41:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:41:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:42:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:42:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 20:43:04] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 53
+=================
+[2020-12-05 21:14:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 21:22:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 21:22:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 21:33:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 21:33:51] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'change' in 'field list' | Файл: C:\OSPanel\domains\onlinetasks\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-12-05 21:34:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 21:46:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 21:47:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 21:49:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 21:57:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:00:37] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:01:18] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:01:31] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:01:54] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 88
+=================
+[2020-12-05 22:05:02] Текст ошибки: Контроллер app\controllers\XcvController не найден | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 37
+=================
+[2020-12-05 22:05:19] Текст ошибки: Контроллер app\controllers\XcvController не найден | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 37
+=================
+[2020-12-05 22:05:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:06:51] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:09:32] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:09:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:12:45] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:14:11] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:14:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:14:26] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:14:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:15:43] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:16:00] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:16:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:17:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:17:04] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:21:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:22:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:23:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:23:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:24:14] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:24:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:24:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:24:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:25:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:25:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:25:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:25:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:25:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:26:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:27:22] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 40
+=================
+[2020-12-05 22:27:35] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
+[2020-12-05 22:31:07] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\onlinetasks\vendor\onlinetasks\core\Router.php | Строка: 37
+=================
+[2020-12-05 22:42:39] Текст ошибки: Вы не авторизованы для редактирования. | Файл: C:\OSPanel\domains\onlinetasks\app\controllers\TaskController.php | Строка: 51
+=================
